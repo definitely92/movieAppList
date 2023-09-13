@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://definitely92.github.io/movieAppList/static/css/main.6e0bb6f9.css",
-    "main.js": "https://definitely92.github.io/movieAppList/static/js/main.1c6294a2.js",
+    "main.js": "https://definitely92.github.io/movieAppList/static/js/main.6ad99f48.js",
     "index.html": "https://definitely92.github.io/movieAppList/index.html",
     "main.6e0bb6f9.css.map": "https://definitely92.github.io/movieAppList/static/css/main.6e0bb6f9.css.map",
-    "main.1c6294a2.js.map": "https://definitely92.github.io/movieAppList/static/js/main.1c6294a2.js.map"
+    "main.6ad99f48.js.map": "https://definitely92.github.io/movieAppList/static/js/main.6ad99f48.js.map"
   },
   "entrypoints": [
     "static/css/main.6e0bb6f9.css",
-    "static/js/main.1c6294a2.js"
+    "static/js/main.6ad99f48.js"
   ]
 }
