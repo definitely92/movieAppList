@@ -2,6 +2,9 @@
  - 스나이퍼팩토리 프론트엔드 프로젝트 부트캠프에서 만든 영화 만들기 팀프로젝트
 
 <br>
+[Github 배포링크](https://definitely92.github.io/movieAppList)
+
+<br>
 
 ## 1. 로딩
 - react-spinners를 이용하여 로딩화면 스타일을 구현
@@ -30,7 +33,6 @@
 
 
 
-[Github 배포](https://definitely92.github.io/movieAppList)
 
 ### 🔔 화면 
 **초기 화면**
